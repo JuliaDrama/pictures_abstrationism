@@ -59,5 +59,5 @@ for i in range(20):
             turtle.pendown()
             turtle.circle(randrange(30))
             turtle.penup()
-
+print()
 turtle.done()
